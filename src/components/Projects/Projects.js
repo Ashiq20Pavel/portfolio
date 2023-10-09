@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import iLife from "../../Assets/Projects/iLife.png";
-import geninsurance from "../../Assets/Projects/geninsurance.png";
+import lifeInsurance from "../../Assets/Projects/Insuresoft.png";
 
 
 function Projects() {
@@ -29,9 +29,9 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={geninsurance}
+              imgPath={lifeInsurance}
               isBlog={false}
-              title="General Insurance"
+              title="Life Insurance"
               description="InsurSoft is a complete integrated & web-enabled online life insurance solution. The product incorporates all functionalities necessary for business processes as well as financial management, investment insurance and other life insurance product management. InsurSoft is the market leader of local life insurance industry holding the highest number of local life installations in Bangladesh."
               link="https://leads.com.bd/insurance-solutions/life-insurance-solution/"
             />
