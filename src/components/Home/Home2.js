@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/firoze.png";
+import myImg from "../../Assets/ashiq.jpg";
 import Tilt from "react-parallax-tilt";
 import {SiCodechef} from "react-icons/si";
 import {SiLeetcode} from "react-icons/si";

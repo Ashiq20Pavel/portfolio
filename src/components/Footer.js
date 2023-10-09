@@ -12,16 +12,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Md. Firoze Hossain</h3>
+          <h3>Designed and Developed by Md. Ashiqur Rahman</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Firoze</h3>
+          <h3>Copyright © {year} ashiq</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/firoze-hossain"
+                href="https://github.com/Ashiq20Pavel"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/firoze-hossain/"
+                href="https://www.linkedin.com/in/ashiqur-rahman-pavel/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -41,7 +41,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://leetcode.com/firoze_hossain/"
+                href="https://leetcode.com/ashiq20pavel/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -49,7 +49,7 @@ function Footer() {
                 <SiLeetcode />
               </a>
             </li>
-            <li className="social-icons">
+            {/* <li className="social-icons">
               <a
                 href="https://www.codechef.com/users/firoze_hossain"
                 style={{ color: "white" }}
@@ -58,7 +58,7 @@ function Footer() {
               >
                 <SiCodechef/>
               </a>
-            </li>
+            </li> */}
           </ul>
         </Col>
       </Row>
