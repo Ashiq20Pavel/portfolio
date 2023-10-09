@@ -45,15 +45,15 @@ const Contact = () => {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +8801714-271620
+              +8801309-000346
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              firoze.hossain01@gmail.com
+              ashiq.rahman.5152@gmail.com
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              Road-01/A, Nikunjo 2, Dhaka-1229
+              Banasree, Rampura, Dhaka- 1219, Bangladesh
             </div>
           </div>
           

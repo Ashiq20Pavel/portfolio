@@ -38,9 +38,9 @@ function Techstack() {
             <Col xs={4} md={2} className="tech-icons">
                 <SiAngular/>
             </Col>
-            <Col xs={4} md={2} className="tech-icons">
+            {/* <Col xs={4} md={2} className="tech-icons">
                 <SiThymeleaf/>
-            </Col>
+            </Col> */}
             <Col xs={4} md={2} className="tech-icons">
                 <SiOracle/>
             </Col>

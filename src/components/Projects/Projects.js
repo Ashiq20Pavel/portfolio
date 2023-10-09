@@ -32,8 +32,8 @@ function Projects() {
               imgPath={geninsurance}
               isBlog={false}
               title="General Insurance"
-              description="A comprehensive software solution for general insurance can efficiently manage motor, marine, and fire insurance policies. It offers a user-friendly interface for policyholders to purchase, renew, and make claims seamlessly. The system incorporates robust risk assessment algorithms, enabling accurate premium calculations based on factors like vehicle type, cargo value, and property specifications.."
-              link="https://www.codechef.com/users/firoze_hossain"
+              description="InsurSoft is a complete integrated & web-enabled online life insurance solution. The product incorporates all functionalities necessary for business processes as well as financial management, investment insurance and other life insurance product management. InsurSoft is the market leader of local life insurance industry holding the highest number of local life installations in Bangladesh."
+              link="https://leads.com.bd/insurance-solutions/life-insurance-solution/"
             />
           </Col>
         </Row>

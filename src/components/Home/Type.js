@@ -8,7 +8,6 @@ function Type() {
                 strings: [
                     "Java Developer",
                     "Spring Boot Developer",
-                    "Angular Developer",
                     "Software Engineer"
                 ],
                 autoStart: true,

@@ -65,7 +65,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/firoze-hossain"
+                  href="https://github.com/Ashiq20Pavel"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +75,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/firoze-hossain/"
+                  href="https://www.linkedin.com/in/ashiqur-rahman-pavel/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,7 +85,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://leetcode.com/firoze_hossain/"
+                  href="https://leetcode.com/ashiq20pavel/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -93,7 +93,7 @@ function Home2() {
                   <SiLeetcode />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://www.codechef.com/users/firoze_hossain"
                   target="_blank"
@@ -102,7 +102,7 @@ function Home2() {
                 >
                   <SiCodechef />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
